@@ -1,0 +1,176 @@
+@media only screen and (min-width:650px){
+#div1{
+    margin-top: 10px;
+    width: 60vw;
+    height: 85vh;
+    background-color: rgb(184, 230, 230);
+    border: 1px solid rgb(184, 230, 230);
+    border-radius: 10px;
+    
+}
+#div4{
+    display: flex;
+    margin-left: 145px;
+    margin-top: 30px;
+}
+.div7{
+    display: flex;
+}
+#div5{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 145px;
+}
+#div2{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#butn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    }
+.inp{
+    outline: none;
+    margin-top: 10px;
+    margin-left: 7px;
+    width: 100px;
+    height: 38px;
+    border: 2px  rgb(241, 236, 236);
+    border-radius: 5px;
+    background-color:rgb(248, 245, 245) ;
+    color: rgb(37, 36, 37);
+}
+
+#div3{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+#but{
+    margin-left: 6px;
+}
+#yearrr{
+    padding-left: 10px;
+}
+#yearr{
+    padding-left: 10px;
+}
+#datt{
+    padding-left: 10px;
+    color: rgb(37, 36, 37);
+}
+#date{
+    padding-left: 10px;
+    color: rgb(37, 36, 37);
+}
+#result{
+    margin-top: 40px;
+    margin-left: 145px;
+}
+#result1{
+    width: 36vw;
+    height:15vh;
+    background-color: rgb(248, 242, 242);
+}
+p{
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: larger;
+}
+#drop{
+   margin: 6px;
+}
+.select1{
+    outline: none;
+    height: 37px;
+    width: 100px;
+    margin-top: 5px;
+    width: 100px;
+    background-color:rgb(248, 245, 245) ;
+    border: 2px  rgb(241, 236, 236);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 3px;
+    font-size: medium;
+    color: rgb(37, 36, 37);
+
+}
+}
+@media only screen and (max-width:650px){
+    #div1{
+        margin-top: 10px;
+        width: 80vw;
+        height: 80vh;
+        background-color: rgb(184, 230, 230);
+        border: 1px solid rgb(184, 230, 230);
+        border-radius: 7px;
+        
+    }
+    #butn{
+        
+        margin-top: 35px;
+        }
+    .div7{
+        display: flex;
+    }
+    #div4{
+        margin-left: 0px;
+       display: block;
+    }
+    .inp{
+        outline: none;
+        margin-top: 7px;
+        margin-left: 7px;
+        width: 65px;
+        height: 35px;
+        border: 2px  rgb(241, 236, 236);
+        border-radius: 5px;
+        background-color:rgb(248, 245, 245) ;
+        color: rgb(37, 36, 37);
+        padding-left: 10px;
+    }
+    .select1{
+        outline: none;
+        height: 35px;
+        width: 100px;
+        margin-top: 7px;
+        background-color:rgb(248, 245, 245) ;
+        border: 2px  rgb(241, 236, 236);
+        border-radius: 5px;
+        font-size: large;
+        color: rgb(37, 36, 37);
+        padding-left: 8px;
+        padding-bottom: 5px;
+    
+    }
+    #but{
+        margin-left: 2px;
+    }
+    #div3{
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+    #div2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        }
+        #result{
+            margin-top: 20px;
+           
+        }
+        #result1{
+            width: 69vw;
+            height:15vh;
+            background-color: rgb(248, 242, 242);
+            border-radius: 5px;
+        }
+        p{
+            padding-left: 10px;
+            padding-top: 5px;
+            font-size: large;
+        }
+}
